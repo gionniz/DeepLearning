@@ -6,6 +6,8 @@ El **codigo** y el **material** utilizado està disponibile en github y alos sig
 
 Codigo  
 [GitHub - gionniz](https://github.com/gionniz/DeepLearning/P2 "GitHub gionniz")
+Colab Funcionante
+https://colab.research.google.com/drive/1yWax6TA83EdOjm2XJGOEXCf9_kqD_5r9#scrollTo=19e4a5da-42ca-4f28-802e-9f834cab923d
 
 ### Autores
 Trabajo realizado por:
