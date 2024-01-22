@@ -24,7 +24,9 @@ MAE promedio:
 ![image](https://github.com/gionniz/DeepLearning/assets/2800642/d8a648ac-1f9e-420c-a918-2689aa2548b5)
 - Convolucional  
 PSNR promedio:   
-MAE promedio:   
+MAE promedio:
+![image](https://github.com/gionniz/DeepLearning/assets/2800642/af1c5daf-afc5-46d2-b71e-93733758c43d)
+
 
 
 ## Ejercicio 2: Super resolución de imágenes  con autoencoder lineal y convolucional
