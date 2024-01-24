@@ -36,7 +36,14 @@ Descripción: Se quiere realizar super resolución de imágenes de 14x14 a 28x28
 Se da incadicacion del rendimiento del modelo a traves de las métricas:
 - Lineal  
 PSNR promedio:   
-MAE promedio:  
+MAE promedio:
+
+![image](https://github.com/gionniz/DeepLearning/assets/2800642/ea530dcc-dc0f-4d3c-b7d6-d6a02632defa)
+
+
 - Convolucional  
 PSNR promedio:   
-MAE promedio:   
+MAE promedio:
+
+![image](https://github.com/gionniz/DeepLearning/assets/2800642/83283ee0-80c5-4438-8788-bd2e18f24058)
+
